@@ -2,7 +2,8 @@ import argparse
 
 def load_data(file_path):
     # TODO: Load data from CSV file
-
+    for i in tuputamadre:
+        if type == 'Non reneaable Delete'
     return df
 
 def clean_data(df):
